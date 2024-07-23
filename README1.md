@@ -4,7 +4,7 @@ pkg install python
 
 pkg install pip
 
-pip install colour , dadate , colorama , pystyle , requests
+pip install colour , dadata , colorama , pystyle , requests
 
 pkg install git
 
